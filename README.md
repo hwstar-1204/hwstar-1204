@@ -48,8 +48,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwstar-1204&layout=compact&exclude_repo=baekjoon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align='left'>
-  
-#### 💬 contact me
+
+#### 📷 Portfolio
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://hwstar1204.notion.site/Hello-s-World-69b45db08d694d5aa2bf517620a672f2?pvs=4)  
+
+#### 💬 Contact me
 <a href="mailto:hwstar1204@gmail.com"><img src="https://img.shields.io/badge/-hwstar1204@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
