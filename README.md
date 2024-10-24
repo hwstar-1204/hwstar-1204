@@ -1,29 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=778899&width=435&lines=Welcome+to+my+Github+%F0%9F%91%8B+)](https://git.io/typing-svg)
+<div align='right'>
+  
+  [![https://solved.ac/profile/hwstar1204](http://mazassumnida.wtf/api/mini/generate_badge?boj=hwstar1204)](https://solved.ac/hwstar1204/)
+  
+</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=778899&width=435&lines=Welcome+to+my+Github+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
 Hi there! I`m HyungWon Lee, a junior python backend developer 🙏 </br>
 I enjoy developing with Pythonic Python. ⚡️
 
----
+#
+<div align='center'>
 
 ### 🚀 Teck stack
-<div align='left'>
 
   #### Most
-  ![Language](https://skillicons.dev/icons?i=py,django,mysql,docker,github,aws)
+  ![Most](https://skillicons.dev/icons?i=py,django,mysql,docker,github,aws)
   #### Try
-  ![Backend](https://skillicons.dev/icons?i=java,nodejs,sqlite,nginx,githubactions)
-
+  ![Try](https://skillicons.dev/icons?i=java,nodejs,sqlite,nginx,githubactions,azure)
   #### Study
-  ![DB](https://skillicons.dev/icons?i=redis,kubernetes)
-
-</div></br>
-
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hwstar1204&theme=swift)](https://github.com/2ykwang/solvedac-readme-badge)
+  ![Study](https://skillicons.dev/icons?i=redis,kubernetes)
 
 [![hwstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwstar-1204&theme=swift&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ---
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwstar1204@gmail.com)
