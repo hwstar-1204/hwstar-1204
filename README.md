@@ -19,7 +19,7 @@ I enjoy developing with Pythonic Python. ⚡️
   #### Try
   ![Try](https://skillicons.dev/icons?i=java,nodejs,sqlite,nginx,githubactions,azure)
   #### Study
-  ![Study](https://skillicons.dev/icons?i=redis,kubernetes)
+  ![Study](https://skillicons.dev/icons?i=redis,rabbitmq,kubernetes)
 
 [![hwstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwstar-1204&theme=swift&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
