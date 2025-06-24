@@ -17,7 +17,7 @@ I enjoy developing with Pythonic Python. ⚡️
   #### Most
   ![Most](https://skillicons.dev/icons?i=py,django,mysql,docker,github,aws)
   #### Try
-  ![Try](https://skillicons.dev/icons?i=java,nodejs,postgres,nginx,githubactions,azure)
+  ![Try](https://skillicons.dev/icons?i=java,fastapi,postgres,nginx,githubactions,azure)
   #### Study
   ![Study](https://skillicons.dev/icons?i=redis,rabbitmq,kubernetes)
 
