@@ -1,29 +1,33 @@
-<div align='right'>
-  
-  [![https://solved.ac/profile/hwstar1204](http://mazassumnida.wtf/api/mini/generate_badge?boj=hwstar1204)](https://solved.ac/hwstar1204/)
-  
-</div>
+# HyungWon Lee
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=778899&width=435&lines=Welcome+to+my+Github+%F0%9F%91%8B+)](https://git.io/typing-svg)
+Backend & AI Engineer, based in Korea.
 
-Hi there! I`m HyungWon Lee, a junior python backend developer 🙏 </br>
-I enjoy developing with Pythonic Python. ⚡️
+I'm a junior Python developer who enjoys writing Pythonic code.  
+Currently building AI agents and MCP servers — exploring how autonomous systems can solve real-world problems.
 
-#
-<div align='center'>
+<br>
 
-### 🚀 Teck stack
+## 🛠️ What I'm working on
 
-  #### Most
-  ![Most](https://skillicons.dev/icons?i=py,django,mysql,docker,github,aws)
-  #### Try
-  ![Try](https://skillicons.dev/icons?i=java,fastapi,postgres,nginx,githubactions,azure)
-  #### Study
-  ![Study](https://skillicons.dev/icons?i=redis,rabbitmq,kubernetes)
+- Building **AI agents** and **agentic AI systems** with LangChain & LangGraph
+- Developing **MCP servers** to extend agent capabilities
+- Crafting personal agents and sharing them with people around me
 
-[![hwstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwstar-1204&theme=swift&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+I spend a lot of time thinking about _better ways to solve problems_ —  
+trade-offs, tech stack choices, and the reasoning behind architectural decisions.  
+Always happy to discuss these things. 💬
 
-</div>
+<br>
 
----
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwstar1204@gmail.com)
+## ⚡ Stack
+
+```
+Main      Python · FastAPI · FastMCP · LangChain · LangGraph · Docker · AWS · Claude Code
+Exploring vLLM · Airflow · Pandas · MLflow · k8s
+```
+
+<br>
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/hwstar1204@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hwstar1204@gmail.com)
